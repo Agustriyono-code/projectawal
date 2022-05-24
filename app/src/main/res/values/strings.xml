@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projectAwal</string>
+    <string name="catatanharian">Catatan harian</string>
+    <string name="catatan_harian" />
+    <string name="isidisini">isi disini</string>
+    <string name="catatan">catatan</string>
+    <string name="isidisini1">isi disini</string>
+    <string name="judul">Judul</string>
+    <string name="save">save</string>
+    <string name="view">view</string>
+</resources>
